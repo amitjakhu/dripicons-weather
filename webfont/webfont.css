@@ -221,7 +221,7 @@
 .diw-compass-west:before {
   content: "8";
 }
-.diw-degrees-celcius:before {
+.diw-degrees-celcius:before, .diw-degrees-celsius:before {
   content: "9";
 }
 .diw-degrees-fahrenheit:before {
